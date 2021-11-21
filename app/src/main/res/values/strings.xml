@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="empty_list_text">Empty List!</string>
+    <string name="error_no_internet_connection">The Internet connection appears to be offline.</string>
+    <string name="error_server_internal_error">There was a problem with the servers.</string>
+    <string name="error_request_timeout">It looks like that timed out. Please check your connection and try again.</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="try_again">Try again</string>
+</resources>
