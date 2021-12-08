@@ -71,6 +71,7 @@ dependencies {
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2"
     testImplementation "org.jetbrains.kotlin:kotlin-test-junit:1.5.31"
     testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:1.5.2"
+    testImplementation "androidx.arch.core:core-testing:2.1.0"
 
     testImplementation "com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0"
     testImplementation "org.mockito:mockito-inline:3.11.0"

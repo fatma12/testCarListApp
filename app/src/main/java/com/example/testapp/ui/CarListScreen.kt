@@ -148,12 +148,12 @@ class CarItemProvider : PreviewParameterProvider<CarItemUiModel> {
     override val values: Sequence<CarItemUiModel>
         get() = sequenceOf(
             CarItemUiModel(
-                image = "https://afterpay-mobile-interview.s3.amazonaws.com/images/honda_civic_1.jpg",
+                image = "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fb55be526-b332-11e7-8007-554f9eaa90ba?fit=scale-down&source=next&width=700",
                 title = "2019 Honda Civic",
                 price = "$17500"
             ),
             CarItemUiModel(
-                image = "https://afterpay-mobile-interview.s3.amazonaws.com/images/honda_civic_1.jpg",
+                image = "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fb55be526-b332-11e7-8007-554f9eaa90ba?fit=scale-down&source=next&width=700",
                 title = "2019 Honda Civic",
                 price = "$17500"
             )

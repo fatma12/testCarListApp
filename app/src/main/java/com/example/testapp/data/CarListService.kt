@@ -6,7 +6,7 @@ import retrofit2.http.GET
 
 interface CarListService {
 
-    @GET("cars.json")
+    @GET("https://swapi.dev/api/people/1/")
     suspend fun getCarList(): Response<List<CarDto>>
 
 }
